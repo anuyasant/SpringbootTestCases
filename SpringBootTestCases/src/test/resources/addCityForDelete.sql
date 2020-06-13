@@ -1,0 +1,1 @@
+INSERT INTO city(id,name, population) VALUES(21, 'Lemon', 123456);
